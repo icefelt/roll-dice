@@ -8,7 +8,7 @@
 # shuffle(dice)
 # print(dice)
 
-
+# Uncomment to run each way
 
 ########## one way to roll 3 X 6 sided dice
 # using random.shuffle(x)
